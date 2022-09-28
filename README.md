@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carolinescholles
-- 👀 I’m interested in learning more about web development so I can be a better SEO/Content/Product Marketing Professional
+- 👀 I’m interested in learning more about web development so I can be a better Content/Product Marketing Professional
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on diferent projects
 - 📫 How to reach me - twitter @carolscholles
